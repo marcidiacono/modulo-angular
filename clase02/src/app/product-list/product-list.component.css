@@ -1,0 +1,14 @@
+.product-list a {
+    cursor: pointer;
+    color: rgb(13, 110, 253);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.product-list p {
+    font-size: 1.2rem;
+}
+
+.product-list h3 {
+    margin-top: 10px;
+}
